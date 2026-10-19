@@ -1,6 +1,6 @@
 [
   {
-    "name": "AICDAC \u2014 Clarion County",
+    "name": "AICDAC — Clarion County",
     "category": "Recovery",
     "area": "Clarion",
     "description": "Treatment coordination, case management and recovery supports.",
@@ -9,10 +9,11 @@
     "url": "https://aicdac.org/addiction-help/",
     "notes": "Call to ask about case coordination and intake; availability must be confirmed.",
     "checked": "2026-10-19",
-    "status": "Published-source checked; provider confirmation pending"
+    "status": "Published-source checked; provider confirmation pending",
+    "profile": "resources/resource-01.html"
   },
   {
-    "name": "CenClear \u2014 assessment scheduling",
+    "name": "CenClear — assessment scheduling",
     "category": "Recovery",
     "area": "Clarion",
     "description": "AICDAC lists CenClear for Clarion County substance use screening and assessment.",
@@ -21,7 +22,8 @@
     "url": "https://aicdac.org/addiction-help/",
     "notes": "Call to schedule and confirm site details.",
     "checked": "2026-10-19",
-    "status": "Published-source checked; provider confirmation pending"
+    "status": "Published-source checked; provider confirmation pending",
+    "profile": "resources/resource-02.html"
   },
   {
     "name": "Clarion County Housing Authority",
@@ -33,7 +35,8 @@
     "url": "https://aicdac.org/community-links/",
     "notes": "Housing availability and eligibility are not confirmed.",
     "checked": "2026-10-19",
-    "status": "Published-source checked; provider confirmation pending"
+    "status": "Published-source checked; provider confirmation pending",
+    "profile": "resources/resource-03.html"
   },
   {
     "name": "Community Action, Inc.",
@@ -45,7 +48,8 @@
     "url": "https://www.jccap.org/",
     "notes": "Call to confirm current office location and program intake.",
     "checked": "2026-10-19",
-    "status": "Published-source checked; provider confirmation pending"
+    "status": "Published-source checked; provider confirmation pending",
+    "profile": "resources/resource-04.html"
   },
   {
     "name": "Center for Community Resources",
@@ -57,7 +61,8 @@
     "url": "https://search.pa211.org/",
     "notes": "Ask about program eligibility.",
     "checked": "2026-10-19",
-    "status": "Published-source checked; provider confirmation pending"
+    "status": "Published-source checked; provider confirmation pending",
+    "profile": "resources/resource-05.html"
   },
   {
     "name": "Clarion County Assistance Office",
@@ -69,7 +74,8 @@
     "url": "https://www.compass.dhs.pa.gov/",
     "notes": "Benefits determined by PA DHS.",
     "checked": "2026-10-19",
-    "status": "Published-source checked; provider confirmation pending"
+    "status": "Published-source checked; provider confirmation pending",
+    "profile": "resources/resource-06.html"
   },
   {
     "name": "PA CareerLink",
@@ -81,7 +87,8 @@
     "url": "https://www.pa.gov/services/dli/explore-job-resources-on-pa-careerlink-",
     "notes": "Search local offices and available services.",
     "checked": "2026-10-19",
-    "status": "Published-source checked; provider confirmation pending"
+    "status": "Published-source checked; provider confirmation pending",
+    "profile": "resources/resource-07.html"
   },
   {
     "name": "PA 211",
@@ -93,7 +100,8 @@
     "url": "https://www.pa211.org/",
     "notes": "Free resource navigation; text ZIP code to 898-211.",
     "checked": "2026-10-19",
-    "status": "Published-source checked; provider confirmation pending"
+    "status": "Published-source checked; provider confirmation pending",
+    "profile": "resources/resource-08.html"
   },
   {
     "name": "Clarion County Crisis",
@@ -105,7 +113,8 @@
     "url": "https://aicdac.org/community-links/",
     "notes": "For immediate danger call 911.",
     "checked": "2026-10-19",
-    "status": "Published-source checked; provider confirmation pending"
+    "status": "Published-source checked; provider confirmation pending",
+    "profile": "resources/resource-09.html"
   },
   {
     "name": "988 Suicide & Crisis Lifeline",
@@ -117,7 +126,8 @@
     "url": "https://988lifeline.org/",
     "notes": "Available around the clock.",
     "checked": "2026-10-19",
-    "status": "Published-source checked; provider confirmation pending"
+    "status": "Published-source checked; provider confirmation pending",
+    "profile": "resources/resource-10.html"
   },
   {
     "name": "PennDOT Driver and Vehicle Services",
@@ -129,7 +139,8 @@
     "url": "https://www.pa.gov/agencies/dmv.html",
     "notes": "Check required documents and fees.",
     "checked": "2026-10-19",
-    "status": "Published-source checked; provider confirmation pending"
+    "status": "Published-source checked; provider confirmation pending",
+    "profile": "resources/resource-11.html"
   },
   {
     "name": "Social Security Administration",
@@ -141,7 +152,8 @@
     "url": "https://www.ssa.gov/number-card/replace-card",
     "notes": "Use the official site to review replacement options.",
     "checked": "2026-10-19",
-    "status": "Published-source checked; provider confirmation pending"
+    "status": "Published-source checked; provider confirmation pending",
+    "profile": "resources/resource-12.html"
   },
   {
     "name": "Pennsylvania Legal Aid Network",
@@ -153,7 +165,8 @@
     "url": "https://palegalaid.net/",
     "notes": "Representation is not guaranteed.",
     "checked": "2026-10-19",
-    "status": "Published-source checked; provider confirmation pending"
+    "status": "Published-source checked; provider confirmation pending",
+    "profile": "resources/resource-13.html"
   },
   {
     "name": "COMPASS",
@@ -165,7 +178,8 @@
     "url": "https://www.compass.dhs.pa.gov/",
     "notes": "Use the official portal.",
     "checked": "2026-10-19",
-    "status": "Published-source checked; provider confirmation pending"
+    "status": "Published-source checked; provider confirmation pending",
+    "profile": "resources/resource-14.html"
   },
   {
     "name": "Clarion County Economic Development Corporation",
@@ -177,10 +191,11 @@
     "url": "https://www.clarioncountyedc.com/what-we-do/workforce-development",
     "notes": "Explore training and employment partner links.",
     "checked": "2026-10-19",
-    "status": "Published-source checked; provider confirmation pending"
+    "status": "Published-source checked; provider confirmation pending",
+    "profile": "resources/resource-15.html"
   },
   {
-    "name": "Community Action \u2014 veterans support inquiry",
+    "name": "Community Action — veterans support inquiry",
     "category": "Veterans",
     "area": "Regional",
     "description": "Ask about available housing-stability support for eligible veterans.",
@@ -189,10 +204,11 @@
     "url": "https://www.jccap.org/",
     "notes": "Ask for current eligibility and referral process.",
     "checked": "2026-10-19",
-    "status": "Published-source checked; provider confirmation pending"
+    "status": "Published-source checked; provider confirmation pending",
+    "profile": "resources/resource-16.html"
   },
   {
-    "name": "PA 211 \u2014 education finder",
+    "name": "PA 211 — education finder",
     "category": "Education",
     "area": "Statewide",
     "description": "Search GED, adult learning and educational support listings.",
@@ -201,10 +217,11 @@
     "url": "https://search.pa211.org/",
     "notes": "Confirm class dates and openings.",
     "checked": "2026-10-19",
-    "status": "Published-source checked; provider confirmation pending"
+    "status": "Published-source checked; provider confirmation pending",
+    "profile": "resources/resource-17.html"
   },
   {
-    "name": "PA 211 \u2014 transportation finder",
+    "name": "PA 211 — transportation finder",
     "category": "Transportation",
     "area": "Statewide",
     "description": "Find current transportation support and ride programs.",
@@ -213,10 +230,11 @@
     "url": "https://search.pa211.org/",
     "notes": "Ask about geographic and trip restrictions.",
     "checked": "2026-10-19",
-    "status": "Published-source checked; provider confirmation pending"
+    "status": "Published-source checked; provider confirmation pending",
+    "profile": "resources/resource-18.html"
   },
   {
-    "name": "PA 211 \u2014 family services finder",
+    "name": "PA 211 — family services finder",
     "category": "Family",
     "area": "Statewide",
     "description": "Find family support, childcare and parenting resources.",
@@ -225,10 +243,11 @@
     "url": "https://search.pa211.org/",
     "notes": "Confirm eligibility and availability.",
     "checked": "2026-10-19",
-    "status": "Published-source checked; provider confirmation pending"
+    "status": "Published-source checked; provider confirmation pending",
+    "profile": "resources/resource-19.html"
   },
   {
-    "name": "PA 211 \u2014 medical finder",
+    "name": "PA 211 — medical finder",
     "category": "Healthcare",
     "area": "Statewide",
     "description": "Find clinics, prescription help and medical assistance resources.",
@@ -237,6 +256,7 @@
     "url": "https://search.pa211.org/",
     "notes": "Call providers for appointment and insurance information.",
     "checked": "2026-10-19",
-    "status": "Published-source checked; provider confirmation pending"
+    "status": "Published-source checked; provider confirmation pending",
+    "profile": "resources/resource-20.html"
   }
 ]

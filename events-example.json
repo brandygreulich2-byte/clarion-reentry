@@ -1,0 +1,12 @@
+[
+  {
+    "title": "EXAMPLE ONLY \u2014 do not publish",
+    "date": "2099-01-01",
+    "time": "10:00 AM ET",
+    "venue": "Public venue",
+    "organizer": "Public organizer",
+    "description": "Replace with a real, approved public event.",
+    "url": "https://example.org/",
+    "approved": false
+  }
+]
